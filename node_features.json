@@ -1,0 +1,1802 @@
+{
+  "0201f975f7f6e073edec9f35d061ad56386fce72089f24a7dfde0e97dc89239f6e": {
+    "as_source": 19,
+    "as_target": 12,
+    "success_rate": 0.631578947368421,
+    "forwarding_events_count": 40,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020466f3749c831f1eb412546e7a889904792b77d86d6e2ed4a61b8f95c5aa385f": {
+    "as_source": 15,
+    "as_target": 14,
+    "success_rate": 0.06666666666666667,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.16666666666666666,
+    "jamming_attempts": 3,
+    "jamming_ratio": 1.0
+  },
+  "020333076e35e398a0c14c8a0211563bbcdce5087cb300342cba09414e9b5f3605": {
+    "as_source": 15,
+    "as_target": 11,
+    "success_rate": 0.8,
+    "forwarding_events_count": 48,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0200f060968b4b90bd8da87d62c4c6d08f2d1a91dd18ca5c3b7acd9885f2b23745": {
+    "as_source": 23,
+    "as_target": 18,
+    "success_rate": 0.782608695652174,
+    "forwarding_events_count": 121,
+    "avg_slot_utilization": 0.13666666666666666,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.3
+  },
+  "020586f70edaed14cfe768061dcfa1b54618e02d25ee8f672e3a4fa3888c2f6e73": {
+    "as_source": 17,
+    "as_target": 23,
+    "success_rate": 0.7647058823529411,
+    "forwarding_events_count": 62,
+    "avg_slot_utilization": 0.02962962962962963,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.1111111111111111
+  },
+  "0203561593a383c1c1663de12d563dc6e2e6c72e5c43fbc4aa5d7ff195efec1a6b": {
+    "as_source": 10,
+    "as_target": 16,
+    "success_rate": 0.0,
+    "forwarding_events_count": 7,
+    "avg_slot_utilization": 0.14166666666666666,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.75
+  },
+  "02038d7de26d9aa89019419aa1e75c4638e4cfd5379ff6877c39debedfd3da2598": {
+    "as_source": 15,
+    "as_target": 20,
+    "success_rate": 0.4,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02017f01f646318be8707ebf07b1f38bd89577f1654102057b824f91c70f75f9b8": {
+    "as_source": 9,
+    "as_target": 20,
+    "success_rate": 0.0,
+    "forwarding_events_count": 166,
+    "avg_slot_utilization": 0.4791666666666667,
+    "jamming_attempts": 8,
+    "jamming_ratio": 1.0
+  },
+  "02039029e390f6d00e1973044b7dad2c941076cce25cd4c70ac789eaba4d3ac242": {
+    "as_source": 17,
+    "as_target": 16,
+    "success_rate": 0.6470588235294118,
+    "forwarding_events_count": 70,
+    "avg_slot_utilization": 0.24761904761904763,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.2857142857142857
+  },
+  "0202cb8bd84def2572449b28f6dffbffb16b4ecbe00c32d4c02a6e9b13822e71d7": {
+    "as_source": 13,
+    "as_target": 12,
+    "success_rate": 0.15384615384615385,
+    "forwarding_events_count": 1,
+    "avg_slot_utilization": 0.15555555555555556,
+    "jamming_attempts": 3,
+    "jamming_ratio": 1.0
+  },
+  "0201bc093d985533e23581e421086d37c6235a0edf3bc20ac0a4f5fab627adb6b0": {
+    "as_source": 14,
+    "as_target": 8,
+    "success_rate": 0.5714285714285714,
+    "forwarding_events_count": 27,
+    "avg_slot_utilization": 0.022222222222222223,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.16666666666666666
+  },
+  "0201bfc5d9c14d50ebaf4dfd83d70df314ed2a9f0119f28619f3f000a1079ef580": {
+    "as_source": 15,
+    "as_target": 21,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 22,
+    "avg_slot_utilization": 0.004166666666666667,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.125
+  },
+  "020611a537da761018cf01afefcdc9cb6aefd68d1e85ea269ac1666e4b6371275c": {
+    "as_source": 16,
+    "as_target": 13,
+    "success_rate": 0.375,
+    "forwarding_events_count": 27,
+    "avg_slot_utilization": 0.2,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "0204118e61e0cc0fd52cad70d133771943adaf77b8c4ccbb2732ac501e31f9a021": {
+    "as_source": 18,
+    "as_target": 13,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 62,
+    "avg_slot_utilization": 0.23333333333333334,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "02018467279b42635c6e923b71d6bd914ebe8541decc09c2f5638678d038d954f5": {
+    "as_source": 20,
+    "as_target": 9,
+    "success_rate": 0.5,
+    "forwarding_events_count": 9,
+    "avg_slot_utilization": 0.025,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.5
+  },
+  "020485f39d68484e617eec6a56b2bfb456ebf1cd9b464ff0cf5e7812669c2df276": {
+    "as_source": 10,
+    "as_target": 12,
+    "success_rate": 0.5,
+    "forwarding_events_count": 34,
+    "avg_slot_utilization": 0.2066666666666667,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "02045f289f0de16b275e925aff584bc6c626dddc0f29e15b367d68a35de445d98b": {
+    "as_source": 12,
+    "as_target": 22,
+    "success_rate": 0.25,
+    "forwarding_events_count": 7,
+    "avg_slot_utilization": 0.06000000000000001,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "0205d9b3537e4c212c59a52e1a7fe7080b521f6f88b3fb34dd57e5a54a80a8dcdb": {
+    "as_source": 13,
+    "as_target": 17,
+    "success_rate": 0.07692307692307693,
+    "forwarding_events_count": 2,
+    "avg_slot_utilization": 0.125,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.75
+  },
+  "0202ae5676becb575963965aaeff143132c694a7ebd1e9e217ccc7e08812d55a71": {
+    "as_source": 18,
+    "as_target": 11,
+    "success_rate": 0.5,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0205708059099ff3c3326f518c75e191e69eb063062ad63d47630edec9e7705629": {
+    "as_source": 14,
+    "as_target": 10,
+    "success_rate": 0.42857142857142855,
+    "forwarding_events_count": 10,
+    "avg_slot_utilization": 0.18333333333333332,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.5
+  },
+  "0203928a193fee8b9bbeee6bbe9ee22d725132ce7b1991b8d88cf83beb98c5508d": {
+    "as_source": 17,
+    "as_target": 12,
+    "success_rate": 0.0,
+    "forwarding_events_count": 54,
+    "avg_slot_utilization": 0.2733333333333333,
+    "jamming_attempts": 5,
+    "jamming_ratio": 1.0
+  },
+  "0204c2205bc9faa7a82189f6ba42129a1a04fbbca3df3e3c10abc02fc824d32026": {
+    "as_source": 16,
+    "as_target": 28,
+    "success_rate": 0.1875,
+    "forwarding_events_count": 58,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020327bbd6b7ebf577a041e24cbdc0b3ddb6ec4a2ec89e271260fc9d6fbaccc80a": {
+    "as_source": 12,
+    "as_target": 15,
+    "success_rate": 0.4166666666666667,
+    "forwarding_events_count": 4,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020284ccf92bfded620df993909e1ef55282725adcde48dc20bb3754b004427037": {
+    "as_source": 12,
+    "as_target": 14,
+    "success_rate": 0.25,
+    "forwarding_events_count": 157,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020586cd4cb51125a0a525c6a4fdd042e135d9e5d2d71eab337e8bad5a5c108322": {
+    "as_source": 14,
+    "as_target": 14,
+    "success_rate": 0.07142857142857142,
+    "forwarding_events_count": 92,
+    "avg_slot_utilization": 0.3041666666666667,
+    "jamming_attempts": 7,
+    "jamming_ratio": 0.875
+  },
+  "0203285cff3072ad8e042f1e2dd963dbff8e1ab26a9b6863bb9ab12ea4507a1e2a": {
+    "as_source": 12,
+    "as_target": 12,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 6,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0202f6ff894607e66267f72d170dcd7b86417aff01302b2bb6ab1fa767e11b540d": {
+    "as_source": 19,
+    "as_target": 17,
+    "success_rate": 0.5789473684210527,
+    "forwarding_events_count": 88,
+    "avg_slot_utilization": 0.006666666666666666,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "02061a55af019a995ec603e010c506fc941302fd565a18795678f34c5e8203a66f": {
+    "as_source": 15,
+    "as_target": 18,
+    "success_rate": 0.8,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0200000000a3eff613189ca6c4070c89206ad658e286751eca1f29262948247a5f": {
+    "as_source": 20,
+    "as_target": 17,
+    "success_rate": 0.85,
+    "forwarding_events_count": 5,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02051a247550d168811c7508e4a84246ed3a756a5eeb0b8947b9430e79e99c0c39": {
+    "as_source": 15,
+    "as_target": 17,
+    "success_rate": 0.8,
+    "forwarding_events_count": 23,
+    "avg_slot_utilization": 0.013333333333333332,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "0203aaa91fc3ff1d15741c0738423b80228f89cd4f221a5d31b23f2855efd53c22": {
+    "as_source": 11,
+    "as_target": 16,
+    "success_rate": 0.7272727272727273,
+    "forwarding_events_count": 61,
+    "avg_slot_utilization": 0.03888888888888889,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "020605d79106b5a27a94436c57f56c4d04015c902aac9739f71d5ed9b18e24d3d1": {
+    "as_source": 13,
+    "as_target": 14,
+    "success_rate": 0.9230769230769231,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0204000710c1f3ab6987f1ce2f63910c99218d4245ad4f7445c932fc8169d76380": {
+    "as_source": 18,
+    "as_target": 13,
+    "success_rate": 0.0,
+    "forwarding_events_count": 30,
+    "avg_slot_utilization": 0.35000000000000003,
+    "jamming_attempts": 4,
+    "jamming_ratio": 1.0
+  },
+  "02040d058e0504c7d4b1fe2fef510396f33bdabfe36450bbb6c7ea0d567d53a15f": {
+    "as_source": 14,
+    "as_target": 20,
+    "success_rate": 0.7857142857142857,
+    "forwarding_events_count": 119,
+    "avg_slot_utilization": 0.04074074074074074,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.1111111111111111
+  },
+  "0200000000727d3b67513c916f16975e3bf8f3304cf3fcf0ed855e2ae41888f461": {
+    "as_source": 14,
+    "as_target": 14,
+    "success_rate": 0.42857142857142855,
+    "forwarding_events_count": 32,
+    "avg_slot_utilization": 0.028571428571428574,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.14285714285714285
+  },
+  "02010c04c4163cd92afe491732335af07bfa0d804d2e6fc22b9e858cbb2cf96bac": {
+    "as_source": 12,
+    "as_target": 14,
+    "success_rate": 0.08333333333333333,
+    "forwarding_events_count": 25,
+    "avg_slot_utilization": 0.32222222222222224,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "02008955e7da2d42f4753fe462333f8c7207140368937131a3d28897a3fc83296d": {
+    "as_source": 14,
+    "as_target": 21,
+    "success_rate": 0.5,
+    "forwarding_events_count": 27,
+    "avg_slot_utilization": 0.19166666666666665,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.5
+  },
+  "020458b6cd4632a2627807b96f74cd296848e84df05a4d83b516732a3492098617": {
+    "as_source": 16,
+    "as_target": 12,
+    "success_rate": 0.5625,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02005dcac896582db30f259c17bba1849a9e1127f60d120ec7db69c17ce64d749d": {
+    "as_source": 14,
+    "as_target": 19,
+    "success_rate": 0.0,
+    "forwarding_events_count": 100,
+    "avg_slot_utilization": 0.39583333333333337,
+    "jamming_attempts": 6,
+    "jamming_ratio": 0.75
+  },
+  "02057240f617091dedd1bce0da761eeaf1809ad9e131771cf1f34858955e2a304f": {
+    "as_source": 13,
+    "as_target": 14,
+    "success_rate": 0.6153846153846154,
+    "forwarding_events_count": 3,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02006b7be7ea4b7cdf181c5c7b338e80904f13173220eb07e991a268e518a35b4a": {
+    "as_source": 11,
+    "as_target": 14,
+    "success_rate": 0.2727272727272727,
+    "forwarding_events_count": 11,
+    "avg_slot_utilization": 0.175,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.5
+  },
+  "0200e5a6afd0cca4383b67a7ed18fc0af24b80f475295d683ee58d7fb00e8d9b13": {
+    "as_source": 11,
+    "as_target": 12,
+    "success_rate": 0.9090909090909091,
+    "forwarding_events_count": 80,
+    "avg_slot_utilization": 0.19583333333333333,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.375
+  },
+  "0202174c57b1e3010c5d6b2d85ba15191351039c7aa2158b6c19b7344663872bdb": {
+    "as_source": 16,
+    "as_target": 16,
+    "success_rate": 0.5,
+    "forwarding_events_count": 23,
+    "avg_slot_utilization": 0.08333333333333333,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.25
+  },
+  "02046a6c834ce50f93f72f1cbf95fa60393d6a204ffe085deeebcc5f785504a31b": {
+    "as_source": 16,
+    "as_target": 20,
+    "success_rate": 0.6875,
+    "forwarding_events_count": 6,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0203eb5c3ae8d060e5c16795a0d7ebccb98a0fb2d68a6d298e3efce28b803b6778": {
+    "as_source": 10,
+    "as_target": 15,
+    "success_rate": 0.6,
+    "forwarding_events_count": 27,
+    "avg_slot_utilization": 0.08,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "02049b00b78ce74f0b727c7864de81d26ca3bcede6f38b78f773ca8fe4a6ddb2c1": {
+    "as_source": 12,
+    "as_target": 11,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 75,
+    "avg_slot_utilization": 0.2666666666666667,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "02060ed659410a4087774ea417e7f4eed00e8fbb7328baa25eb2268ac963938f61": {
+    "as_source": 17,
+    "as_target": 16,
+    "success_rate": 0.5294117647058824,
+    "forwarding_events_count": 132,
+    "avg_slot_utilization": 0.14285714285714285,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.14285714285714285
+  },
+  "02006870c8b24c5070e1eae20e7522268eed4236787dff4c050cbf52eb9eda1033": {
+    "as_source": 18,
+    "as_target": 17,
+    "success_rate": 0.5555555555555556,
+    "forwarding_events_count": 74,
+    "avg_slot_utilization": 0.2066666666666667,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "0205d522c694b2eef9aee8cd7bbeda6884d7fe0ddf201a4e9c4f3e0f6d1c1360a4": {
+    "as_source": 18,
+    "as_target": 11,
+    "success_rate": 0.16666666666666666,
+    "forwarding_events_count": 14,
+    "avg_slot_utilization": 0.32222222222222224,
+    "jamming_attempts": 3,
+    "jamming_ratio": 1.0
+  },
+  "0203cc3f99c736d6b21f269bc23ffa40bf7e195fd3f7e13bade84b44408a009b60": {
+    "as_source": 18,
+    "as_target": 12,
+    "success_rate": 0.16666666666666666,
+    "forwarding_events_count": 56,
+    "avg_slot_utilization": 0.2571428571428572,
+    "jamming_attempts": 6,
+    "jamming_ratio": 0.8571428571428571
+  },
+  "02062565958730df9f3e88ae46f8c772b0d13581a3309f9f3ab7e1e5e309bb2b87": {
+    "as_source": 13,
+    "as_target": 12,
+    "success_rate": 0.46153846153846156,
+    "forwarding_events_count": 37,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0200a9d22ee6d8be768eb8050a853ecc182b32cb952ba50b7cac8997bebb83b84a": {
+    "as_source": 11,
+    "as_target": 10,
+    "success_rate": 0.6363636363636364,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0200ea161d8c15afaf24fe25df4ac6b06c5a86dbf5d912747292765f5fcd620f44": {
+    "as_source": 15,
+    "as_target": 25,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 233,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0204b68f6ea2517493257f98910b3da0461cb62ba12bf69499aea2b795341e37fa": {
+    "as_source": 16,
+    "as_target": 15,
+    "success_rate": 0.0625,
+    "forwarding_events_count": 115,
+    "avg_slot_utilization": 0.30333333333333334,
+    "jamming_attempts": 8,
+    "jamming_ratio": 0.8
+  },
+  "0201c0130bff6c44f7467cfc4d1343741521489177c24fd9e6fb346a16026ee978": {
+    "as_source": 17,
+    "as_target": 15,
+    "success_rate": 0.7647058823529411,
+    "forwarding_events_count": 5,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02048fb4ca08126e8799bf8391629a0d7fe2cf2654e449483535a55ea599aad2d4": {
+    "as_source": 12,
+    "as_target": 14,
+    "success_rate": 0.8333333333333334,
+    "forwarding_events_count": 62,
+    "avg_slot_utilization": 0.02,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "0203dc5f89fe1fe7420114e8b4bdc18c4033a898b70ee376b38b2e2c0156591757": {
+    "as_source": 17,
+    "as_target": 20,
+    "success_rate": 0.6470588235294118,
+    "forwarding_events_count": 28,
+    "avg_slot_utilization": 0.02,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "0205bb43fd083ef8d8b9b4a4c96d8cb1256e5a5249de711c36c32f79788a01b00c": {
+    "as_source": 19,
+    "as_target": 15,
+    "success_rate": 0.631578947368421,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0205f412822832116a7dc11cbe2704f1ce7704cf1c2c1963f925589f98b8774dac": {
+    "as_source": 11,
+    "as_target": 18,
+    "success_rate": 0.45454545454545453,
+    "forwarding_events_count": 20,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0205b0887afc0ee64fcde2eabb84c1f43c75168c1cec778d00e12e6afc36972235": {
+    "as_source": 15,
+    "as_target": 12,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 69,
+    "avg_slot_utilization": 0.03333333333333333,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "02037b334d04fd50953346234ee31aeaffcdaab8d238b57ccdb52978ab6bc871fa": {
+    "as_source": 10,
+    "as_target": 19,
+    "success_rate": 0.8,
+    "forwarding_events_count": 19,
+    "avg_slot_utilization": 0.3,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "0203d2e8662e68382f4459c881e66fd815931b07575558f09d63ff40769a3727dd": {
+    "as_source": 19,
+    "as_target": 8,
+    "success_rate": 0.2631578947368421,
+    "forwarding_events_count": 111,
+    "avg_slot_utilization": 0.005555555555555556,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.16666666666666666
+  },
+  "0200c06eaaef0ffc98447b5f0c5810c8325fc50fba4c509ebf558d67d1f088bdad": {
+    "as_source": 19,
+    "as_target": 20,
+    "success_rate": 0.631578947368421,
+    "forwarding_events_count": 95,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0205a7323a43ac8e14c2ee6c470189ac29b278332808e5b73b4a6985368f5956ce": {
+    "as_source": 21,
+    "as_target": 17,
+    "success_rate": 0.14285714285714285,
+    "forwarding_events_count": 188,
+    "avg_slot_utilization": 0.2388888888888889,
+    "jamming_attempts": 4,
+    "jamming_ratio": 0.6666666666666666
+  },
+  "0202ebd010a208703ba654c178412c23a1e5ca5eff7eda2e46599a1e63b0cf5265": {
+    "as_source": 11,
+    "as_target": 16,
+    "success_rate": 0.5454545454545454,
+    "forwarding_events_count": 129,
+    "avg_slot_utilization": 0.41904761904761906,
+    "jamming_attempts": 4,
+    "jamming_ratio": 0.5714285714285714
+  },
+  "0201df04224c7bc140c5efd21906a120e44e6bbe5ae2818cbce1877d34ea5ec174": {
+    "as_source": 11,
+    "as_target": 16,
+    "success_rate": 0.7272727272727273,
+    "forwarding_events_count": 15,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02036c5e99f2333b35e36a0f23e9ef9fa591bd82fc434dd52fd102b8ab803b33aa": {
+    "as_source": 22,
+    "as_target": 19,
+    "success_rate": 0.6363636363636364,
+    "forwarding_events_count": 52,
+    "avg_slot_utilization": 0.09047619047619047,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.42857142857142855
+  },
+  "02021b7010efdd8126770e3e461ecdee0821005c97dac1eeec89a482fe95ab8bb5": {
+    "as_source": 17,
+    "as_target": 12,
+    "success_rate": 0.6470588235294118,
+    "forwarding_events_count": 15,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0200420ebfb0c6162e7dfcbcb5ca23df9f423ceb0536617d1b4549fc4efa6a15d5": {
+    "as_source": 17,
+    "as_target": 18,
+    "success_rate": 0.8235294117647058,
+    "forwarding_events_count": 93,
+    "avg_slot_utilization": 0.09333333333333334,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "0202ca96e5240a938e53de235a7ac4855a3c028d8fd08b98a3e59fd845a0238201": {
+    "as_source": 17,
+    "as_target": 13,
+    "success_rate": 0.4117647058823529,
+    "forwarding_events_count": 79,
+    "avg_slot_utilization": 0.22916666666666666,
+    "jamming_attempts": 4,
+    "jamming_ratio": 0.5
+  },
+  "020573d8e402859aca3899d766bac81b58c86dc3ecb2640cbbcf151525cc499177": {
+    "as_source": 23,
+    "as_target": 13,
+    "success_rate": 0.6086956521739131,
+    "forwarding_events_count": 109,
+    "avg_slot_utilization": 0.16666666666666666,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.25
+  },
+  "0205205afce64e55f8b5ffdcae01ec00fe7c50909911ad82964254c777f862104c": {
+    "as_source": 11,
+    "as_target": 13,
+    "success_rate": 0.7272727272727273,
+    "forwarding_events_count": 83,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020396bc005a542bce8f813a911d560ae0f7921030e563f2d81176a904e7b301e5": {
+    "as_source": 13,
+    "as_target": 10,
+    "success_rate": 0.3076923076923077,
+    "forwarding_events_count": 71,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0202ffa14ffd142d9aed33076f51a66b754d8b9024466344d0ff27d8cd54802bb2": {
+    "as_source": 14,
+    "as_target": 12,
+    "success_rate": 0.9285714285714286,
+    "forwarding_events_count": 7,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02062a64c5d381c77f8ef679133e6207b995d33914c97c072f854eda8ef4e6ea78": {
+    "as_source": 21,
+    "as_target": 11,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 183,
+    "avg_slot_utilization": 0.03,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.1
+  },
+  "0202e7727ee46d943a44c7bf0dce14220a839630dee67d03446bf935178b55a0df": {
+    "as_source": 16,
+    "as_target": 14,
+    "success_rate": 0.125,
+    "forwarding_events_count": 59,
+    "avg_slot_utilization": 0.2866666666666667,
+    "jamming_attempts": 4,
+    "jamming_ratio": 0.8
+  },
+  "02063046011a2c22f9b7964010499fa1c5b4ac7e2d4add2e0965fdde60fb235374": {
+    "as_source": 22,
+    "as_target": 19,
+    "success_rate": 0.6818181818181818,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.044444444444444446,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "0200424bd89b5282c310e10a52fd783070556f947b54d93f73fd89534ce0cba708": {
+    "as_source": 12,
+    "as_target": 12,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 4,
+    "avg_slot_utilization": 0.041666666666666664,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.25
+  },
+  "02043747dc5f8757f599dee52ce6618245faa59be6e0673ab3f299bfb5cc006dd1": {
+    "as_source": 13,
+    "as_target": 15,
+    "success_rate": 0.6153846153846154,
+    "forwarding_events_count": 75,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020340344f521bd338f807046d7362511426322e01f82443ad26e24089f409071e": {
+    "as_source": 18,
+    "as_target": 17,
+    "success_rate": 0.5555555555555556,
+    "forwarding_events_count": 135,
+    "avg_slot_utilization": 0.051515151515151514,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.2727272727272727
+  },
+  "02014c10a8c382a077f37c6a0c3abb036027a445d2eb87897a23910ac64e762e74": {
+    "as_source": 15,
+    "as_target": 17,
+    "success_rate": 0.3333333333333333,
+    "forwarding_events_count": 117,
+    "avg_slot_utilization": 0.32,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.6
+  },
+  "020313a87585bd78af4719ec74b937b2f734573cd1c00f284cb0057fefdb2f5746": {
+    "as_source": 16,
+    "as_target": 11,
+    "success_rate": 0.625,
+    "forwarding_events_count": 51,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02005028c1f9d99c39875cffbfbb2efdb6c103ba85ffeefbd06b9e44df195ad713": {
+    "as_source": 15,
+    "as_target": 15,
+    "success_rate": 0.8,
+    "forwarding_events_count": 102,
+    "avg_slot_utilization": 0.08095238095238096,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.42857142857142855
+  },
+  "0203a21e744c231d092383b5e2df60709f9645a538d2a8d7c6f2ede8c4301c0bff": {
+    "as_source": 12,
+    "as_target": 23,
+    "success_rate": 0.5833333333333334,
+    "forwarding_events_count": 25,
+    "avg_slot_utilization": 0.09333333333333334,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "020331a1a81bd8ad2c2ffcd6730bee311c6f457ceca8e8cfcfef0117cebfac348a": {
+    "as_source": 20,
+    "as_target": 11,
+    "success_rate": 0.4,
+    "forwarding_events_count": 37,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0204a16c332f22b91b73660db017b7e6a93c0d20ff0c9d6f40055b5fa1de87ef2f": {
+    "as_source": 11,
+    "as_target": 8,
+    "success_rate": 0.7272727272727273,
+    "forwarding_events_count": 17,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02039753afe4281851baf586e84f5429bc8292657fe43cd2aa11f7bd8f8b60ce21": {
+    "as_source": 9,
+    "as_target": 12,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 35,
+    "avg_slot_utilization": 0.013333333333333332,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "0205b08d6229e47219587cd1c024d84e3e7b88942c1ac8af89b9bdb8faf4e0ffc4": {
+    "as_source": 22,
+    "as_target": 14,
+    "success_rate": 0.045454545454545456,
+    "forwarding_events_count": 19,
+    "avg_slot_utilization": 0.325,
+    "jamming_attempts": 4,
+    "jamming_ratio": 1.0
+  },
+  "0202c4ae7018c8072987010a772bfe0898ae1cf4697ca30bec92558fe196f65bba": {
+    "as_source": 24,
+    "as_target": 21,
+    "success_rate": 0.125,
+    "forwarding_events_count": 83,
+    "avg_slot_utilization": 0.32592592592592595,
+    "jamming_attempts": 9,
+    "jamming_ratio": 1.0
+  },
+  "0202e97f8a3479fe0858ddfa51dd10951d2ad1272b20115aba004aca9813c59e64": {
+    "as_source": 8,
+    "as_target": 18,
+    "success_rate": 0.625,
+    "forwarding_events_count": 376,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02049355ddbff2082890b26cc71edff6600174f9b6971dfdf560324d3577131d5c": {
+    "as_source": 8,
+    "as_target": 20,
+    "success_rate": 0.75,
+    "forwarding_events_count": 100,
+    "avg_slot_utilization": 0.005555555555555556,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.16666666666666666
+  },
+  "0203c4cb6f0dc52210c60b70f5dff612bc9b05bffa525325fa21c4185aee257155": {
+    "as_source": 11,
+    "as_target": 10,
+    "success_rate": 0.5454545454545454,
+    "forwarding_events_count": 88,
+    "avg_slot_utilization": 0.08,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "0200e33d06cf5d6ec9a0e5718d714646a2d50ea68fc24e6ad3211610252b7ac3c7": {
+    "as_source": 14,
+    "as_target": 17,
+    "success_rate": 0.2857142857142857,
+    "forwarding_events_count": 2,
+    "avg_slot_utilization": 0.13333333333333333,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.75
+  },
+  "02043bfe604fea62d38c9e73a76db3a5becd266a0ac8bd3c0d3fc04b61ac3d753c": {
+    "as_source": 14,
+    "as_target": 18,
+    "success_rate": 0.21428571428571427,
+    "forwarding_events_count": 3,
+    "avg_slot_utilization": 0.13333333333333333,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.75
+  },
+  "0202dfc1c6a94efead8a9f88236f2338345f7a2cc6924226e904e68f5ebc7dad20": {
+    "as_source": 11,
+    "as_target": 17,
+    "success_rate": 0.5454545454545454,
+    "forwarding_events_count": 75,
+    "avg_slot_utilization": 0.013333333333333332,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "02026c546d3cad18c9ae5a11c45789b95cec7d1cf1b6f4d396d945f768091f380f": {
+    "as_source": 15,
+    "as_target": 14,
+    "success_rate": 0.8,
+    "forwarding_events_count": 62,
+    "avg_slot_utilization": 0.027777777777777776,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.16666666666666666
+  },
+  "020567b5483c4a7280249d32abe5a92234c43ed4aa7601e365631dae29cb21fe7a": {
+    "as_source": 15,
+    "as_target": 18,
+    "success_rate": 0.6,
+    "forwarding_events_count": 47,
+    "avg_slot_utilization": 0.16666666666666666,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.25
+  },
+  "0200773d5aee6a9ee90cca37a1350d14def091b51b008e838c6d64671abefd4eeb": {
+    "as_source": 19,
+    "as_target": 11,
+    "success_rate": 0.47368421052631576,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0200232177944d5e2ddf5b203843050dee40c4b7f343356499ed9aeb4eb154fd4e": {
+    "as_source": 25,
+    "as_target": 12,
+    "success_rate": 0.72,
+    "forwarding_events_count": 24,
+    "avg_slot_utilization": 0.025,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.25
+  },
+  "02004d8933df4f002fa95d8c37ca43eb9c175d310aad55cc6d442e4accc3740029": {
+    "as_source": 15,
+    "as_target": 10,
+    "success_rate": 0.8,
+    "forwarding_events_count": 4,
+    "avg_slot_utilization": 0.15,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.5
+  },
+  "020317c4c42bd470ca817c4287108205447e8f59a4f4a9c5fe460226335de516a1": {
+    "as_source": 18,
+    "as_target": 10,
+    "success_rate": 0.7777777777777778,
+    "forwarding_events_count": 156,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020055cfd1c07c63530ff4471eabd2b286efd9a493137215bab684590c62d27ba4": {
+    "as_source": 16,
+    "as_target": 19,
+    "success_rate": 0.6875,
+    "forwarding_events_count": 30,
+    "avg_slot_utilization": 0.05333333333333333,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "0202a10e9dc29df67d6bff9f3e99e3bf7ccbd7cf3d73f3e3fcab761ac52f19a801": {
+    "as_source": 14,
+    "as_target": 17,
+    "success_rate": 0.07142857142857142,
+    "forwarding_events_count": 52,
+    "avg_slot_utilization": 0.35555555555555557,
+    "jamming_attempts": 4,
+    "jamming_ratio": 0.6666666666666666
+  },
+  "0201c0d730b56ab512e5d1a81d81aa31d82cc27c565d9d7af9703f4f457c1ebd8c": {
+    "as_source": 15,
+    "as_target": 18,
+    "success_rate": 0.4666666666666667,
+    "forwarding_events_count": 3,
+    "avg_slot_utilization": 0.13333333333333333,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "020111074bd304e17a1cc74e1f4b76d64b1764895ae3a26ad3ab2c4fd0f63cdc35": {
+    "as_source": 20,
+    "as_target": 25,
+    "success_rate": 0.15,
+    "forwarding_events_count": 73,
+    "avg_slot_utilization": 0.35000000000000003,
+    "jamming_attempts": 5,
+    "jamming_ratio": 0.8333333333333334
+  },
+  "02030439c95574c6c695c1f341425118085f26792fdc271265b959b559ac0fc2d4": {
+    "as_source": 20,
+    "as_target": 10,
+    "success_rate": 0.55,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.3,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.5
+  },
+  "0203e5b16ebe87b089f22e18752f1f7a66a1bdf77879df8d1c9e8d912dbfb9beb4": {
+    "as_source": 17,
+    "as_target": 15,
+    "success_rate": 0.6470588235294118,
+    "forwarding_events_count": 39,
+    "avg_slot_utilization": 0.16,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "0202e5e2d739b88b9325562a768218c71613b9e8e4bf11ce674a8b4d168f714c87": {
+    "as_source": 17,
+    "as_target": 16,
+    "success_rate": 0.5882352941176471,
+    "forwarding_events_count": 20,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0204c2a553d398ce0b9ce25e2fe6edeb2753194cd672840a267b40a8973c7f0aa1": {
+    "as_source": 12,
+    "as_target": 15,
+    "success_rate": 0.75,
+    "forwarding_events_count": 99,
+    "avg_slot_utilization": 0.08518518518518518,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.2222222222222222
+  },
+  "0204ed326590256450ff49c098051b4b6a52ea7ec92938acaf0fb78bc0f1ecbf1d": {
+    "as_source": 20,
+    "as_target": 18,
+    "success_rate": 0.65,
+    "forwarding_events_count": 29,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0205823109f3d6e1ac5f3e5ab41ab88bf463ffa7b59a81d07d8b688fb737e11955": {
+    "as_source": 22,
+    "as_target": 13,
+    "success_rate": 0.5454545454545454,
+    "forwarding_events_count": 47,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020154791bfcc0000e7c2fdb481b7c122a9aced5f8a3faa53002886ca5395b3098": {
+    "as_source": 15,
+    "as_target": 17,
+    "success_rate": 0.6,
+    "forwarding_events_count": 119,
+    "avg_slot_utilization": 0.15999999999999998,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "0201905f22243829e43b9ca7bffe90155a474687eccc705b3d30d163b14f400511": {
+    "as_source": 12,
+    "as_target": 15,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 52,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0202d9f3575d6b788235dc617262ee3bb2d4c3c740adae6e98016bc1396e1a279f": {
+    "as_source": 13,
+    "as_target": 12,
+    "success_rate": 0.6153846153846154,
+    "forwarding_events_count": 43,
+    "avg_slot_utilization": 0.05555555555555555,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.16666666666666666
+  },
+  "02004c625d622245606a1ea2c1c69cfb4516b703b47945a3647713c05fe4aaeb1c": {
+    "as_source": 13,
+    "as_target": 11,
+    "success_rate": 0.07692307692307693,
+    "forwarding_events_count": 97,
+    "avg_slot_utilization": 0.3541666666666667,
+    "jamming_attempts": 6,
+    "jamming_ratio": 0.75
+  },
+  "02047c886946e215d4b0c4496d6ad6c37da6e89d22676b15a561ac35a7759ca464": {
+    "as_source": 14,
+    "as_target": 7,
+    "success_rate": 0.5,
+    "forwarding_events_count": 70,
+    "avg_slot_utilization": 0.011111111111111112,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.16666666666666666
+  },
+  "0204af821f0f298fe069709db155ab7c18b5f3a26711b4534a5730debe0e718d3e": {
+    "as_source": 13,
+    "as_target": 17,
+    "success_rate": 0.0,
+    "forwarding_events_count": 2,
+    "avg_slot_utilization": 0.23333333333333334,
+    "jamming_attempts": 2,
+    "jamming_ratio": 1.0
+  },
+  "02053cbc5282b29af3082ef5b9a85b25bb1133cb55cfede26666d9f323f123ba0a": {
+    "as_source": 20,
+    "as_target": 9,
+    "success_rate": 0.7,
+    "forwarding_events_count": 132,
+    "avg_slot_utilization": 0.14285714285714285,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.14285714285714285
+  },
+  "0205fcfa041fdab19d46f5a1dd071ff67c096e86c2db4c5539d623016aaccc315c": {
+    "as_source": 11,
+    "as_target": 16,
+    "success_rate": 0.9090909090909091,
+    "forwarding_events_count": 306,
+    "avg_slot_utilization": 0.1111111111111111,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.1111111111111111
+  },
+  "0201d3fb63901ffaaa6ce535c9227fb3dc4646b6276096dd10c8a12e178ac9886f": {
+    "as_source": 16,
+    "as_target": 17,
+    "success_rate": 0.5625,
+    "forwarding_events_count": 10,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02063ae340ca611922072d71063807b116286022c8638d26833a022e414d572915": {
+    "as_source": 15,
+    "as_target": 8,
+    "success_rate": 0.6,
+    "forwarding_events_count": 30,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0204591fea88eb3894ff379df03c747da948d661db0eeca16ddb73054254852d47": {
+    "as_source": 13,
+    "as_target": 18,
+    "success_rate": 0.6923076923076923,
+    "forwarding_events_count": 1,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02005a505c16ab5321e73f1efbd0fc74e2cccda04e67fda3a036438c6372b3c918": {
+    "as_source": 15,
+    "as_target": 14,
+    "success_rate": 0.26666666666666666,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.05555555555555555,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "020384685e321a44cac1a1683a5c660c8eb62b840b174de8427d2489b5e64e13fa": {
+    "as_source": 13,
+    "as_target": 11,
+    "success_rate": 0.46153846153846156,
+    "forwarding_events_count": 103,
+    "avg_slot_utilization": 0.2714285714285714,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.2857142857142857
+  },
+  "020129a90672158cd9c59acc6f1c9ae1e460c92f28b33e2339882c1b388b45da9c": {
+    "as_source": 14,
+    "as_target": 13,
+    "success_rate": 0.7857142857142857,
+    "forwarding_events_count": 49,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0203fd91319a25cb106e1820151543966e1d70b3fb883cda8e1e8bc3abcbb85ae6": {
+    "as_source": 16,
+    "as_target": 12,
+    "success_rate": 0.0625,
+    "forwarding_events_count": 1,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020181e74c5c80bbb4b47f58e1e1012013a199989f61597d6fc5b4e386df79d3ce": {
+    "as_source": 9,
+    "as_target": 13,
+    "success_rate": 0.4444444444444444,
+    "forwarding_events_count": 27,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0205ae77caa47cacf7a447dc7547bd17bbf866fbc029e7f4992fb3089110fce66c": {
+    "as_source": 10,
+    "as_target": 13,
+    "success_rate": 0.1,
+    "forwarding_events_count": 126,
+    "avg_slot_utilization": 0.1888888888888889,
+    "jamming_attempts": 6,
+    "jamming_ratio": 0.6666666666666666
+  },
+  "020127a8c646ce3399d638f94dff84dc9792e56e77b8886c5e23854c4d18557734": {
+    "as_source": 10,
+    "as_target": 13,
+    "success_rate": 0.1,
+    "forwarding_events_count": 2,
+    "avg_slot_utilization": 0.13333333333333333,
+    "jamming_attempts": 3,
+    "jamming_ratio": 1.0
+  },
+  "02025fda526d502061238b4b7359ea538d8f0ecd1248c8b5587d4e6ac9bac9aae3": {
+    "as_source": 8,
+    "as_target": 17,
+    "success_rate": 0.625,
+    "forwarding_events_count": 39,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0201e065021c296e8bc235ad3e45647dc8419c16b8e372edb1edfa465078d167cb": {
+    "as_source": 13,
+    "as_target": 13,
+    "success_rate": 0.7692307692307693,
+    "forwarding_events_count": 17,
+    "avg_slot_utilization": 0.05,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.25
+  },
+  "0205f49390cd94142832e215b9eb9608b690de7b42db0db9c956213a3870641e33": {
+    "as_source": 25,
+    "as_target": 20,
+    "success_rate": 0.4,
+    "forwarding_events_count": 7,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02031c18e92e9104fe1ef468cc011908ab7f7a5b69022751382acc538ba9a09635": {
+    "as_source": 9,
+    "as_target": 16,
+    "success_rate": 0.7777777777777778,
+    "forwarding_events_count": 9,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02044b0f26d8b44cdb0238a7de8530478a084ea97f16fe1d02fb9b6f446fb45a2b": {
+    "as_source": 17,
+    "as_target": 13,
+    "success_rate": 0.7647058823529411,
+    "forwarding_events_count": 39,
+    "avg_slot_utilization": 0.06666666666666667,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "0205abc8b429daf6f58e0b8f31c3b6f4e5a4fd6294d71cbaefa250650c2c51999b": {
+    "as_source": 17,
+    "as_target": 17,
+    "success_rate": 0.5294117647058824,
+    "forwarding_events_count": 44,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0202f00d5f5c91a3c79113851b162c2b75f2cbd9fb2378fb4a4ce92d5ba1e63e08": {
+    "as_source": 13,
+    "as_target": 14,
+    "success_rate": 0.7692307692307693,
+    "forwarding_events_count": 87,
+    "avg_slot_utilization": 0.058333333333333334,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.25
+  },
+  "02045f04f3456f498fbd6c5b20df43646beb39dd0f30dc46f03cd9ccb4619b7726": {
+    "as_source": 11,
+    "as_target": 11,
+    "success_rate": 0.6363636363636364,
+    "forwarding_events_count": 14,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0204b302712b89e9c8af327e7ec9ff5caa497e0ed61aeb9f3ccea0a07063f412fc": {
+    "as_source": 15,
+    "as_target": 13,
+    "success_rate": 0.06666666666666667,
+    "forwarding_events_count": 25,
+    "avg_slot_utilization": 0.275,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.75
+  },
+  "02048df9126b46ab0c12617ef5a1ac0c8dbedd7635fe0b9df12387e3ecc417e7b5": {
+    "as_source": 15,
+    "as_target": 15,
+    "success_rate": 0.4,
+    "forwarding_events_count": 6,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0205cde0d3ee57d7b580eaf7262940c55ac0c02a0802149777304d1d1858154e9b": {
+    "as_source": 25,
+    "as_target": 11,
+    "success_rate": 0.64,
+    "forwarding_events_count": 57,
+    "avg_slot_utilization": 0.1,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.25
+  },
+  "0201cc5c237368165ca4221526596205b4d747602c837e327621f19b7b415aa1f6": {
+    "as_source": 12,
+    "as_target": 19,
+    "success_rate": 0.75,
+    "forwarding_events_count": 32,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02023587eae91eee2cd6c220caf6f4e89bb50496970c3705c2b07cc7754585ac7d": {
+    "as_source": 12,
+    "as_target": 15,
+    "success_rate": 0.25,
+    "forwarding_events_count": 159,
+    "avg_slot_utilization": 0.4592592592592592,
+    "jamming_attempts": 9,
+    "jamming_ratio": 1.0
+  },
+  "020582d136f1f633fd5dc3ff107aebb5fb2bee32953974547fe36b3b53ab9cf7df": {
+    "as_source": 18,
+    "as_target": 10,
+    "success_rate": 0.1111111111111111,
+    "forwarding_events_count": 22,
+    "avg_slot_utilization": 0.35555555555555557,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.6666666666666666
+  },
+  "0205175f042b46aa68ba5c213ce98c476021efbfcc9b91f5103231f61b023d25b1": {
+    "as_source": 19,
+    "as_target": 13,
+    "success_rate": 0.15789473684210525,
+    "forwarding_events_count": 113,
+    "avg_slot_utilization": 0.5222222222222223,
+    "jamming_attempts": 6,
+    "jamming_ratio": 1.0
+  },
+  "0202497639162bf2b608152aa2659c4dbd25bb0d3fbd5c139c3d77d541883cf468": {
+    "as_source": 15,
+    "as_target": 20,
+    "success_rate": 0.5333333333333333,
+    "forwarding_events_count": 72,
+    "avg_slot_utilization": 0.03333333333333333,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "020463cc0708ab01819946530f5fd88e5975904387c5a3483181e1bd821086e3ff": {
+    "as_source": 14,
+    "as_target": 22,
+    "success_rate": 0.7142857142857143,
+    "forwarding_events_count": 183,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0204c7c3957c36fbecdc6b3c64f4638fc030d5052ab13fbeb538b4b4e2bd1bdc3d": {
+    "as_source": 20,
+    "as_target": 14,
+    "success_rate": 0.05,
+    "forwarding_events_count": 35,
+    "avg_slot_utilization": 0.3466666666666667,
+    "jamming_attempts": 5,
+    "jamming_ratio": 1.0
+  },
+  "0202092d5764a4e6477590ba40c0766d84cc6c42f722fe8a73f4a436268a00feeb": {
+    "as_source": 11,
+    "as_target": 8,
+    "success_rate": 0.6363636363636364,
+    "forwarding_events_count": 89,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02037c3fa4ee5499110830e9e7bbf3c9e1e91b6ea800e2bc2a0bb3ea45f8ae4ac7": {
+    "as_source": 18,
+    "as_target": 8,
+    "success_rate": 0.7222222222222222,
+    "forwarding_events_count": 25,
+    "avg_slot_utilization": 0.03333333333333334,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "020522071f95fab2575e94c62966c76f64f199944ee531d9bcf1e5325de93c3d0a": {
+    "as_source": 17,
+    "as_target": 18,
+    "success_rate": 0.7647058823529411,
+    "forwarding_events_count": 25,
+    "avg_slot_utilization": 0.08888888888888889,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "0203df263b505d33b311255d158128be6e5462ff54756c89e9012656c8921b83ea": {
+    "as_source": 16,
+    "as_target": 11,
+    "success_rate": 0.625,
+    "forwarding_events_count": 2,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02057479712e675cc8beb1a0a38edc84bda643c0b10b7b187cef4c6d1c5c707ad2": {
+    "as_source": 12,
+    "as_target": 9,
+    "success_rate": 0.8333333333333334,
+    "forwarding_events_count": 28,
+    "avg_slot_utilization": 0.1111111111111111,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "0204ea5f78a543de7ac40c91537504fb682f1870d88e642e49fafa093eba206d4e": {
+    "as_source": 15,
+    "as_target": 14,
+    "success_rate": 0.4666666666666667,
+    "forwarding_events_count": 239,
+    "avg_slot_utilization": 0.2791666666666667,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.375
+  },
+  "0200469788c5528058032ba487da129247fe8f15a017457e2b233305378fef62a4": {
+    "as_source": 17,
+    "as_target": 18,
+    "success_rate": 0.4117647058823529,
+    "forwarding_events_count": 4,
+    "avg_slot_utilization": 0.2111111111111111,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.6666666666666666
+  },
+  "020003b9499a97c8dfbbab6b196319db37ba9c37bccb60477f3c867175f417988e": {
+    "as_source": 18,
+    "as_target": 13,
+    "success_rate": 0.7222222222222222,
+    "forwarding_events_count": 12,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020556f350ee34c324591ff4c38aa8201e5dd5ce787be5c0844dcc2248e1e0fb6c": {
+    "as_source": 11,
+    "as_target": 11,
+    "success_rate": 0.7272727272727273,
+    "forwarding_events_count": 53,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02003e8f41444fbddbfce965eaeb45b362b5c1b0e52b16cc249807ba7f78877928": {
+    "as_source": 18,
+    "as_target": 19,
+    "success_rate": 0.6111111111111112,
+    "forwarding_events_count": 28,
+    "avg_slot_utilization": 0.16,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "0204f94415e6ff18a42525da7f21477372e3845492e141561d0b23b7230723fa19": {
+    "as_source": 16,
+    "as_target": 19,
+    "success_rate": 0.75,
+    "forwarding_events_count": 50,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0200081eaa41b5661d3b512f5aae9d6abfb11ba1497a354e9217d9a18fbaa1e76b": {
+    "as_source": 14,
+    "as_target": 17,
+    "success_rate": 0.6428571428571429,
+    "forwarding_events_count": 32,
+    "avg_slot_utilization": 0.23333333333333334,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.5
+  },
+  "02036e0f538728a26a9e2ebb42890a9845c6dc9f46a09047ff3e382b5bf9282c17": {
+    "as_source": 10,
+    "as_target": 16,
+    "success_rate": 0.7,
+    "forwarding_events_count": 17,
+    "avg_slot_utilization": 0.2888888888888889,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "02051213ea61f6e6432d4d7a4359a0b35c88041a63fe1bb403ad66ed0ca31884c8": {
+    "as_source": 12,
+    "as_target": 15,
+    "success_rate": 0.4166666666666667,
+    "forwarding_events_count": 88,
+    "avg_slot_utilization": 0.25,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.25
+  },
+  "0202d0815ab6cc7eba68fdc3f30ac39598e18a86b463bca2a97079db956527d6b3": {
+    "as_source": 11,
+    "as_target": 22,
+    "success_rate": 0.9090909090909091,
+    "forwarding_events_count": 12,
+    "avg_slot_utilization": 0.1111111111111111,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.6666666666666666
+  },
+  "0205019fc1d5d0d94987279f25603b6d5e81a61e54b0386f88c5ac44b646cf8287": {
+    "as_source": 14,
+    "as_target": 11,
+    "success_rate": 0.5,
+    "forwarding_events_count": 112,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0202072a2756befebd7b5e87e4a01854c5d87644c2461703856638b52169b377c6": {
+    "as_source": 14,
+    "as_target": 11,
+    "success_rate": 0.7857142857142857,
+    "forwarding_events_count": 110,
+    "avg_slot_utilization": 0.05,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.25
+  },
+  "02058a29920854e5088ade34a0f89ca9c89464d6d6595c2942eb13047580a1192b": {
+    "as_source": 11,
+    "as_target": 13,
+    "success_rate": 0.6363636363636364,
+    "forwarding_events_count": 5,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0201be5b63e839fc57c66c7ab21dcea3aa79001de132f29ade96a0c2d6680c8eaf": {
+    "as_source": 8,
+    "as_target": 22,
+    "success_rate": 0.0,
+    "forwarding_events_count": 33,
+    "avg_slot_utilization": 0.37777777777777777,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.6666666666666666
+  },
+  "0202486d87b5c02e24e3b63bc7ce35395e2b6b3f958817e3912fb658ec136c1f33": {
+    "as_source": 20,
+    "as_target": 8,
+    "success_rate": 0.65,
+    "forwarding_events_count": 22,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020323d8f47d10ed146cc630c6b79accc9540213f907454f7731c337dc5ae9a7c5": {
+    "as_source": 11,
+    "as_target": 14,
+    "success_rate": 0.7272727272727273,
+    "forwarding_events_count": 92,
+    "avg_slot_utilization": 0.08095238095238096,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.2857142857142857
+  },
+  "02045849b9dbee219685b5cb4dd490510e08ed55abb880952741ae8c1d57760bca": {
+    "as_source": 12,
+    "as_target": 12,
+    "success_rate": 0.5833333333333334,
+    "forwarding_events_count": 21,
+    "avg_slot_utilization": 0.10666666666666666,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "020181c396116c982caf1465416e1af6008c6caa43883841a606e6ac09df94a3db": {
+    "as_source": 16,
+    "as_target": 19,
+    "success_rate": 0.1875,
+    "forwarding_events_count": 94,
+    "avg_slot_utilization": 0.05,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.125
+  },
+  "020289fedf16cc2ebd800d3292de03c01297a7da786934622e0c49336f00e15deb": {
+    "as_source": 17,
+    "as_target": 18,
+    "success_rate": 0.17647058823529413,
+    "forwarding_events_count": 42,
+    "avg_slot_utilization": 0.5444444444444444,
+    "jamming_attempts": 3,
+    "jamming_ratio": 1.0
+  },
+  "02001bcff2e27f6aa2aa8e68c7e5944bcbf5daf4954963e5a1ce2ab6f5386d0342": {
+    "as_source": 14,
+    "as_target": 12,
+    "success_rate": 0.21428571428571427,
+    "forwarding_events_count": 33,
+    "avg_slot_utilization": 0.2,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "0202ef7315318e7e6706a6eee025f0b150cc7288e273d4b6c494031a7ee94fd143": {
+    "as_source": 12,
+    "as_target": 17,
+    "success_rate": 0.5833333333333334,
+    "forwarding_events_count": 2,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0203af58678967b0beeb0ed4ac6910bf26bc8b6121486754161df49a971337a7fb": {
+    "as_source": 5,
+    "as_target": 20,
+    "success_rate": 0.6,
+    "forwarding_events_count": 84,
+    "avg_slot_utilization": 0.019047619047619046,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.14285714285714285
+  },
+  "02016a19c7443418d00b1603c3ddefd5c932c8a296859e7e78aff10ed297c87213": {
+    "as_source": 16,
+    "as_target": 14,
+    "success_rate": 0.6875,
+    "forwarding_events_count": 26,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0201af659a3986832bb5bf2493c537cee9f7d62a7bff5d0a68176c1d60df931cf7": {
+    "as_source": 18,
+    "as_target": 14,
+    "success_rate": 0.16666666666666666,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.6,
+    "jamming_attempts": 1,
+    "jamming_ratio": 1.0
+  },
+  "02016724f45bb5fb6f233b3bf3938baea3aae8c12ddeea64f8c24902a8a4f57fe4": {
+    "as_source": 16,
+    "as_target": 29,
+    "success_rate": 0.6875,
+    "forwarding_events_count": 7,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0205eaf2e61f26dfbd91c26473e3746968fd0e42aaff6232e16e53b822ffbd2f1e": {
+    "as_source": 17,
+    "as_target": 22,
+    "success_rate": 0.23529411764705882,
+    "forwarding_events_count": 96,
+    "avg_slot_utilization": 0.44666666666666666,
+    "jamming_attempts": 4,
+    "jamming_ratio": 0.8
+  },
+  "0205198c099c45acedf988445f71da087ca39cd80847e53a7819e8f4e45768d7d3": {
+    "as_source": 12,
+    "as_target": 17,
+    "success_rate": 0.3333333333333333,
+    "forwarding_events_count": 129,
+    "avg_slot_utilization": 0.2619047619047619,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.42857142857142855
+  },
+  "0200072fd301cb4a680f26d87c28b705ccd6a1d5b00f1b5efd7fe5f998f1bbb1f1": {
+    "as_source": 17,
+    "as_target": 22,
+    "success_rate": 0.17647058823529413,
+    "forwarding_events_count": 181,
+    "avg_slot_utilization": 0.39,
+    "jamming_attempts": 9,
+    "jamming_ratio": 0.9
+  },
+  "020153f202e79ac0cc9a6cb806437845e2ebe0a219a242d2ce3394d5488a4b1442": {
+    "as_source": 12,
+    "as_target": 20,
+    "success_rate": 0.5,
+    "forwarding_events_count": 37,
+    "avg_slot_utilization": 0.013333333333333332,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.4
+  },
+  "02009947c197575f5a948e1e4343c41dc2e6122a9bd644629afb919f30e1115ff8": {
+    "as_source": 16,
+    "as_target": 9,
+    "success_rate": 0.625,
+    "forwarding_events_count": 32,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02001828ca7eb8e44d4d78b5c1ea609cd3744be823c22cd69d895eff2f9345892d": {
+    "as_source": 13,
+    "as_target": 19,
+    "success_rate": 0.3076923076923077,
+    "forwarding_events_count": 75,
+    "avg_slot_utilization": 0.10416666666666666,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.375
+  },
+  "0201bbc44301ec1bdf3da081e19e960adf133806d19e439eb116bb84a8a62e7408": {
+    "as_source": 14,
+    "as_target": 9,
+    "success_rate": 0.14285714285714285,
+    "forwarding_events_count": 124,
+    "avg_slot_utilization": 0.48333333333333334,
+    "jamming_attempts": 6,
+    "jamming_ratio": 1.0
+  },
+  "02057ee0163d5bc00dcc59adcc4a90670d7cef27db7493bc170fb4cf85edb70650": {
+    "as_source": 12,
+    "as_target": 12,
+    "success_rate": 0.5833333333333334,
+    "forwarding_events_count": 301,
+    "avg_slot_utilization": 0.08148148148148147,
+    "jamming_attempts": 3,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "0203f4be24bc19b59bbf68edaa3ef5a6859ca4b28cb562f8bdda8809ef8ef614a0": {
+    "as_source": 21,
+    "as_target": 16,
+    "success_rate": 0.7619047619047619,
+    "forwarding_events_count": 9,
+    "avg_slot_utilization": 0.016666666666666666,
+    "jamming_attempts": 2,
+    "jamming_ratio": 0.3333333333333333
+  },
+  "020600299b8f383a61781d19f917f355fc712e1e0e58dd4d3e3e1dd4b5ebb38f7a": {
+    "as_source": 21,
+    "as_target": 15,
+    "success_rate": 0.7142857142857143,
+    "forwarding_events_count": 32,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020080a6a379cbf6f2d6a0231b274f311899b1f6568d73d7ff4032536b394df3b0": {
+    "as_source": 15,
+    "as_target": 10,
+    "success_rate": 0.6666666666666666,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.5,
+    "jamming_attempts": 1,
+    "jamming_ratio": 1.0
+  },
+  "02063c72d0143d753c5ca7c5363067950602d394c99e837399c34febbd3870cc0e": {
+    "as_source": 16,
+    "as_target": 19,
+    "success_rate": 0.5,
+    "forwarding_events_count": 62,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0202b5d54467d075893d46b6205067bbab2bcbc632513cd15661ad803d2dcb4ce3": {
+    "as_source": 11,
+    "as_target": 11,
+    "success_rate": 0.9090909090909091,
+    "forwarding_events_count": 42,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020545751fd299b938edebd2994746ebb3b47f2b25e51c32cb498035dbfa5bf32c": {
+    "as_source": 17,
+    "as_target": 15,
+    "success_rate": 0.4117647058823529,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0201d15fde90f3fbb9880c575c811991db3dbfe9970dd4d40e48d6b48f723b299a": {
+    "as_source": 16,
+    "as_target": 15,
+    "success_rate": 0.3125,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0206062ca6ac64f0e9b93afda437ef8e3bac754ffc7ce17e49d10c049b100569fd": {
+    "as_source": 20,
+    "as_target": 17,
+    "success_rate": 0.7,
+    "forwarding_events_count": 4,
+    "avg_slot_utilization": 0.05,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.5
+  },
+  "02016e4df84a0c729f459d5842529900404aa5469c0f653f1b012c27775021a5d4": {
+    "as_source": 20,
+    "as_target": 15,
+    "success_rate": 0.0,
+    "forwarding_events_count": 0,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "0203953114c37a47fff2a2f78a4d4fd86a2caf43e1dbc49a84398e08b5d5b396e4": {
+    "as_source": 12,
+    "as_target": 12,
+    "success_rate": 0.75,
+    "forwarding_events_count": 19,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "020060ce06e5130c55900c4c4b0d6bc34e72f94d948854b6e0670f154472d014ec": {
+    "as_source": 18,
+    "as_target": 13,
+    "success_rate": 0.6111111111111112,
+    "forwarding_events_count": 106,
+    "avg_slot_utilization": 0.0,
+    "jamming_attempts": 0,
+    "jamming_ratio": 0.0
+  },
+  "02029a5ea890afa1aa8a201ae66fabaaaa50bc5735bbc88239d9f05d241a328c99": {
+    "as_source": 10,
+    "as_target": 16,
+    "success_rate": 0.3,
+    "forwarding_events_count": 62,
+    "avg_slot_utilization": 0.3333333333333333,
+    "jamming_attempts": 6,
+    "jamming_ratio": 1.0
+  },
+  "0204c9def9eaa9f467fde0df0e889fa593078aeeb6828b7e71fa39c36075a42002": {
+    "as_source": 10,
+    "as_target": 19,
+    "success_rate": 0.2,
+    "forwarding_events_count": 42,
+    "avg_slot_utilization": 0.39999999999999997,
+    "jamming_attempts": 4,
+    "jamming_ratio": 1.0
+  },
+  "0200b354798e517bcbc7f78b0ccd3ab2e7b49be15bee6d9e7a9f19331cabc3db14": {
+    "as_source": 17,
+    "as_target": 17,
+    "success_rate": 0.8235294117647058,
+    "forwarding_events_count": 46,
+    "avg_slot_utilization": 0.04666666666666667,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  },
+  "02021711ca9152f342af9191c13c31fc7e47d5192dfcdd97b0f0632b0410aaf929": {
+    "as_source": 19,
+    "as_target": 13,
+    "success_rate": 0.15789473684210525,
+    "forwarding_events_count": 71,
+    "avg_slot_utilization": 0.2,
+    "jamming_attempts": 1,
+    "jamming_ratio": 0.2
+  }
+}
